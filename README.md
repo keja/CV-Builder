@@ -6,3 +6,4 @@ tool for making CV and CoverLetter, turns HTML/CSS/JSON into PDFs
 1. cd CV-Builder
 2. npm i
 3. gulp
+4. look at the pdf in /dist 
