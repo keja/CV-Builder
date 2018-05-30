@@ -1,0 +1,18 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-markdown": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-twig": "^1.2.0",
+    "puppeteer": "^1.4.0"
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "template": "cv/coverletter",
+  "profile": {
+    "image": "",
+    "name": "Kenneth Jakobsen",
+    "title": "Senior WebDev",
+    "text": "32 Years old, based in Odense, Denmark, My personality is [ISTP](https://www.16personalities.com/istp-personality) ([personal traits](https://www.16personalities.com/profiles/57bb13f7f3a90)), im an non-smoker. I started programming in 2003 (VB6) as a part of a school project and got hooked instantly. I care about web performance and a good user experience, i enjoy hunting for less ms in load performance and a fan of technologies based on non-blocking io. When im not writing code i enjoy playing hardball (paintball without paint), music and concerts. And just enjoying life with friends and cold beers."
+  },
+  "skills": {
+    "Expert": [
+      "JavaScript",
+      "PHP"
+    ],
+    "Advanced": [
+      "Vue.js",
+      "Node.JS / Express",
+      "MongoDB & MySQL",
+      "TWIG",
+      "SCSS + bootstrap 4",
+      "Gulp",
+      "Linux (Ubuntu)",
+      "Nginx"
+    ],
+    "Intermediate": [
+      "Git",
+      "Scrum / Kanban",
+      "Webpack"
+    ]
+  },
+  "contact": {
+    "phone": "+45 00 00 00 00",
+    "www": "https://web.site",
+    "email": "email@tld.com",
+    "zipcode": "5200",
+    "city": "Odense v",
+    "country": "Denmark"
+  },
+  "cv": [
+    {
+      "company": "Spinnaker Nordic",
+      "type": "job",
+      "title": "Web developer",
+      "period": "APR 2016 - MAR 2018",
+      "location": "Copenhagen, Denmark",
+      "description": [
+        "Primarily worked with our internal tools and ensured everything was running as it was supposed to, as well as adding new features when requested from my co-workers.",
+        "Other tasks consist of<br/>• Building custom tools for clients<br/>• Counselling clients in how to optimise their websites<br/>• Updating clients websites"
+      ],
+      "tech": [
+        "Ubuntu",
+        "Nginx",
+        "Node.JS",
+        "PHP",
+        "TWIG",
+        "MySQL",
+        "MongoDB",
+        "Vue.js"
+      ]
+    },
+    {
+      "company": "TEDxOdense",
+      "type": "job",
+      "title": "Web developer (volunteer)",
+      "period": "JAN 2016 - present",
+      "location": "Odense, Denmark",
+      "description": [
+        "As I like to share my knowledge with others, I do really like the TED concept, so im happy to give a hand and help organise the event in Odense by ensuring that the website is running smooth and it is up-to-date."
+      ],
+      "tech": [
+        "Ubuntu",
+        "Nginx",
+        "SCSS",
+        "TWIG",
+        "Gulp",
+        "PWA"
+      ]
+    },
+    {
+      "company": "Bachelor of Web Development",
+      "type": "education",
+      "title": "Student at Erhvervsakademiet Lillebælt",
+      "period": "JAN 2016 - JUNE 2017",
+      "location": "Odense, Denmark",
+      "description": [
+        "In order to have the papers needed to teach web-development i decided to take this bachelor, so i can teach some day in the future when im old and burned out writing code.",
+        "Here are a few prototypes i made during the education<br/>• Tinderbox festival app (native app)<br/>• Parking app (web app)<br/>• Attribution tracking platform"
+      ],
+      "tech": [
+        "PHP",
+        "MySQL",
+        "MongoDB",
+        "SCSS",
+        "UML",
+        "Gulp",
+        "Angular",
+        "Appcelerator"
+      ]
+    },
+    {
+      "company": "NiceHair.dk",
+      "type": "job",
+      "title": "DevOps",
+      "period": "JULY 2015 - NOV 2015",
+      "location": "Esbjerg, Denmark",
+      "description": [
+        "The task was to create a new e-commerce system from scratch, I was working on server configuration, website performance and optimisation.",
+        "Before <br>• Magento with Varnish Cache enabled. <br/>• Average init load time was 1.287ms<br/>• Total load time: 4.130ms based on pingdom<br/>• Yearly cost of 406.000DKK",
+        "After<br/>• Average init load time; 560ms without cache<br/>• Average init load time; 88ms with cache<br/>• Total load time: 992ms based on pingdom<br/>• Yearly cost of 64.000DKK",
+        "Team size: 3"
+
+      ],
+      "tech": [
+        "Ubuntu",
+        "pfSense",
+        "Nginx",
+        "PHP",
+        "MySQL",
+        "TWIG",
+        "LESS",
+        "jQuery"
+      ],
+      "spacer": "20px"
+    },
+    {
+      "company": "Multimedia Design &<br/>Communication",
+      "type": "education",
+      "title": "Student at Erhvervsakademiet Lillebælt",
+      "period": "FEB 2014 - JAN 2016",
+      "location": "Odense, Denmark",
+      "description": [
+        "• Communication<br/>•  Graphic Design & Concept Development<br/>• Programming<br/>•  Business"
+      ],
+      "tech": [
+        "Adobe"
+      ]
+    },
+    {
+      "company": "Blutonium Media Germany",
+      "type": "job",
+      "title": "Web developer",
+      "period": "APR 2011 - FEB 2014",
+      "location": "Faro, Portugal",
+      "description": [
+        "Working on a record label management tool for BMG; to manage releases, dj promos ect. I also made websites for events and artists connected to BMG."
+      ],
+      "tech": [
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "FFmpeg"
+      ]
+    },
+    {
+      "company": "Syddansk Erhvervsskole",
+      "type": "job",
+      "title": "Teacher",
+      "period": "SEPT 2010 - JUNE 2011",
+      "location": "Odense, Denmark",
+      "description": [
+        "Teaching in web development and helping students with debugging of their code when they got stuck."
+      ],
+      "tech": [
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "jQuery",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "company": "EDMC APS",
+      "type": "job",
+      "title": "Web developer (freelancer)",
+      "period": "APR 2009 - JULY 2011",
+      "location": "Odense, Denmark",
+      "description": [
+        "Disbanded travel agency, subcompany of Ung Rejs APS<br/>I was responsible for creating and the maintenance of HardstylersUnited.dk:<br/>• A community and forum<br/>• over half a million posts<br/>• over 10.000 members.<br/>• Member of FDIM (Foreningen af Danske Interaktive Medier)"
+      ],
+      "tech": [
+        "PHP",
+        "PHPbb",
+        "MySQL",
+        "jQuery",
+        "Apache"
+      ]
+    },
+    {
+      "company": "Web2It",
+      "type": "job",
+      "title": "Web developer",
+      "period": "JULY 2009 - DEC 2009",
+      "location": "Odense, Denmark",
+      "description": [
+        "• Programming of websites<br/>• Management of DNS and webhotels<br/>• Making modules for CMS<br/>• Client support by phone and email."
+      ],
+      "tech": [
+        "PHP",
+        "MySQL",
+        "JavaScript"
+      ]
+    },
+    {
+      "company": "Webintegrator",
+      "type": "education",
+      "title": "Student at Syddansk Erhvervsskole",
+      "period": "OCT 2006 - DEC 2008",
+      "location": "Odense, Denmark",
+      "description": [
+        "• Programming<br/>• Entrepreneurship & Innovation<br/>• Information Technology<br/>• E-commerce"
+      ],
+      "tech": [
+        "PHP",
+        "MySQL",
+        "JavaScript"
+      ]
+    },
+    {
+      "company": "Millitray basic education (HBU)",
+      "type": "education",
+      "title": "Attending HBU",
+      "period": "FEB 2006 - MAY 2006",
+      "location": "Aalborg, Denmark",
+      "description": [
+        "• Weapon education<br/>• Field service<br/>• First aid<br/>• Fire fighting<br/>• Eco education"
+      ],
+      "tech": [
+
+      ]
+    }
+  ],
+  "application": {
+    "company": "...",
+    "date": "01/01/2018",
+    "title": "Senior web developer looking for new challenges.",
+    "content": [
+      "...",
+      "....",
+      ".....",
+      "......"
+    ]
+  }
+}
